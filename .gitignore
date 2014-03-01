@@ -6,6 +6,13 @@
 *.user
 *.sln.docstates
 
+# ignore generic files from macos
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
 # Build results
 
 [Dd]ebug/
